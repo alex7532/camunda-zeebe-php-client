@@ -1,5 +1,5 @@
 {
-    "name": "radek-baczynski/zeebe-php-client",
+    "name": "alex7532/camunda-zeebe-php-client",
     "type": "library",
     "description": "PHP Client for zeebe workflow engine (https://zeebe.io)",
     "keywords": ["zeebe", "microservice", "orchestration", "workflow", "bpmn"],
